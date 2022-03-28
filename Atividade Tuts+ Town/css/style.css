@@ -1,0 +1,65 @@
+header{
+   text-align: center;
+    font-family: Arial;
+    color: rgb(23, 102, 126);
+    font-size: 150%;
+}
+
+.imagem0 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: rgb(248, 208, 160);
+    font-family: Arial;
+}
+
+
+.imagem1{
+    margin-left: 32vw;
+}
+
+.imagem2{
+    margin-left: 32vw;
+}
+
+.imagem3{
+    margin-left: 32vw;
+}
+
+p{
+    margin-left: 39vw;
+    position: relative;
+    top: -120px;
+    font-family: Arial;
+    color: rgb(23, 102, 126);
+    font-size: 150%
+}
+
+ul{
+    margin-left: 37vw;
+    position: relative;
+    top: -140px;
+    font-family: Arial;
+    color: rgb(202, 69, 7);
+    font-size: 120%
+}
+
+a{
+    color: orange
+}
+
+h2{
+    font-family: Arial;
+    color: azure;
+    font-size: 85%;
+    text-align: center;
+}
+
+footer{
+    background-color: orange;
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px;
+}
