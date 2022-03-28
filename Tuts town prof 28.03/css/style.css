@@ -1,0 +1,77 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FAF8DA;
+    margin: 0;
+}
+
+
+/*
+@font-face {
+    font-family: Brokenbrush;
+    src: url(fonts/Brokenbrush.ttf);
+}
+
+h1 {
+    font-family: 'Brokenbrush', sans-serif;
+}
+Inserindo fonte no diretório.
+*/
+
+header {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 50px;
+    color: #205D76;
+}
+
+.header {
+    width: 650px;
+}
+
+article {
+    display: flex;
+    margin: 50px auto;
+    width: 400px;
+}
+
+.article {
+    width: 150px;
+}
+
+
+div {
+    margin-left: 30px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #205D76;
+}
+
+ul {
+    color: yellow;
+    padding-left: 15px;
+}
+
+a {
+    color: orange;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #FFC122;
+    text-align: center;
+    padding: 2px;
+}
+
+p {
+    color: #FFFFFF;
+}
+
