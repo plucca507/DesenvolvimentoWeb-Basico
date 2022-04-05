@@ -1,0 +1,85 @@
+header img {
+    margin-top: 4vh;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto;
+}
+
+.containerclearfix {
+    width: 1155px;
+}
+
+nav {
+    display: block;
+}
+
+ul {
+    position: absolute;
+    left: 127vh;
+    top: 50px;
+}
+
+li {
+    float: left;
+    margin-left: 10px;
+    list-style-type: none;
+    font-family: Helvetica;
+    color: grey;
+    padding: 5px;
+}
+
+.a {
+    color: grey;
+    text-decoration: none;
+}
+
+.banner {
+    background-image: url(banner.jpg);
+    position: absolute;
+    width: 1128px;
+    height: 445px;
+    margin: 50px;
+    top: 75px;
+    left: 0%;
+    right: 0%;
+    top: 9%;
+    bottom: 55.81%;
+    margin-left: 0%;
+}
+
+.caixa {
+    width: 480px;
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 214.81px;
+    right: 57.45%;
+    top: 10.33%;
+    bottom: 71.44%;
+}
+
+.caixa h1{
+    color: aliceblue;
+}
+
+.caixa p {
+    color: aliceblue;
+}
+
+article img{
+    margin-top: 500px;
+    width: 264px;
+    margin-right: 1.333vw
+}
+
+section {
+    display: flex;
+    margin-left: 0px;
+    left: 0%;
+}
+
+section p {
+    padding: 7px;
+    word-spacing:-2.3px;
+}
