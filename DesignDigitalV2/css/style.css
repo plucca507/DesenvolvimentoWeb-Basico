@@ -1,0 +1,113 @@
+header img {
+    width: 20.74%;
+	float: left;
+}
+
+header{
+	width: 100%;
+	height: 48px;
+    margin-top: 3.19%;
+	margin-bottom: 3.19%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 62.5%;
+}
+
+.containerclearfix {
+    width: 1128px;
+    margin: 0 auto;
+}
+
+img,
+figure,
+video,
+embed {
+	max-width: 100%;
+}
+
+nav {
+    display: block;
+    float: right;
+	width: 840px;
+}
+
+ul {
+    float: right;
+}
+
+li {
+	font-size: 1.2em;
+	margin-left: 2.0em;
+	margin-top: 1.0em;
+	display: inline-block;
+}
+
+.a {
+    color: grey;
+    text-decoration: none;
+    font-size: 1.6em;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.banner {
+    background-image: url(banner.jpg);
+	height: 450px;
+	margin-bottom: 4.25%;
+	position: relative;
+}
+
+.caixa {
+	position: absolute;
+	top: 4.25%;
+	background: rgba(0,0,0,0.6);
+	width: 42.55%;
+	padding:2.12% 1.24% 2.12% 3.54%;
+}
+
+.caixa h1{
+    color: aliceblue;
+    margin-bottom: 0;
+	margin-top: 0;
+    font-size: 40px;
+}
+   
+
+.caixa p {
+    color: aliceblue;
+    font-size: 1.8em;
+}
+
+article {
+    width: 23.40%;
+	margin-right: 2.12%;
+    float: left;
+}
+.box4 {
+    margin-right: 0;
+}
+
+.article h2 {
+    font-size: 2.4em;
+}
+
+section p {
+    font-size: 1.6em;
+	text-align: justify;
+}
+
+footer{
+	width: 100%;
+	float: left;
+	margin-top: 2.12%;
+	margin-bottom: 2.12%;
+}
+
+p.footer{
+	font-size: 1.0em;
+	margin-bottom: 0;
+}
