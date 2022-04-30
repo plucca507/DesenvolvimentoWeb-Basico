@@ -1,0 +1,8 @@
+Header contendo links de redes sociais e título de apresentação
+
+Div contendo Foto, e lista ao lado contendo dados do emprego
+
+em baixo uma outra DIV contendo um Sobre
+- jogos, área de negocios e tecnologia 
+
+por último fazer um sumário dos trabalhos, se possível neon
